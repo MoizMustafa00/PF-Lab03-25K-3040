@@ -6,7 +6,7 @@
 ## My Interests
 - Programming
 - Machine Learning
-- Ethical Hacking\
+- Ethical Hacking
 
 
 
